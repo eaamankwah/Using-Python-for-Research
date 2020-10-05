@@ -1,7 +1,7 @@
 # Using-Python-for-Research
 
 # Overview
-[Data Science: Productivity Tools](https://www.edx.org/course/using-python-for-research) is an intermediate applied Python course for  how to use Python 3 for research taught by Associate Prof. Jukka-Pekka "JP" Onnela from Harvard University through [edX platform](https://www.edx.org).
+[Using Python for Research](https://www.edx.org/course/using-python-for-research) is an intermediate applied Python course for  how to use Python 3 for research taught by Associate Prof. Jukka-Pekka "JP" Onnela from Harvard University through [edX platform](https://www.edx.org).
 
 This course cover:
 - How to use Unix/Linux to manage your file system
